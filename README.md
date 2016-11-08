@@ -1,2 +1,2 @@
 # Exercise-1
-Group Work
+Description: Group exercise work to demonstrate github collaboration
